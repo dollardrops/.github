@@ -1,4 +1,4 @@
-<p align="center"><a href="https://inovector.com" target="_blank"><img src="./images/logo.svg" width="400"></a></p>
+<p align="center"><a href="https://inovector.com" target="_blank"><img src="https://raw.githubusercontent.com/Inovector/.github/main/profile/images/logo.svg" width="400"></a></p>
 
 ## About Inovector
 
