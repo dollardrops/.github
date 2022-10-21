@@ -14,7 +14,7 @@ Join our community:
 
 ## Our active products
 
-**Mixpost** - Self-hosted marketing platform for social networks
+**Mixpost** - Self-hosted social media management software
 - Github: https://github.com/inovector/mixpost
 - Website: https://mixpost.app/
 
